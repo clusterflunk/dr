@@ -1,0 +1,49 @@
+{
+	"Runs": [
+		{
+			"Rm": false,
+			"I": true,
+			"T": false,
+			"V": "",
+			"P": "",
+			"Image": "",
+			"Command": ""
+		},
+		{
+			"Rm": false,
+			"I": true,
+			"T": false,
+			"V": "",
+			"P": "",
+			"Image": "",
+			"Command": "blah"
+		},
+		{
+			"Rm": false,
+			"I": false,
+			"T": false,
+			"V": "",
+			"P": "",
+			"Image": "",
+			"Command": ""
+		},
+		{
+			"Rm": false,
+			"I": false,
+			"T": false,
+			"V": "this:that",
+			"P": "",
+			"Image": "",
+			"Command": ""
+		},
+		{
+			"Rm": false,
+			"I": true,
+			"T": false,
+			"V": "",
+			"P": "",
+			"Image": "",
+			"Command": ""
+		}
+	]
+}
